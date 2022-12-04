@@ -53,7 +53,7 @@ nav>div>img{
 }
 .btn{
     position: relative;
-    top: 60px;
+    top: 35px;
     padding: 18px 40px;
 }
 .banner-container{
@@ -63,7 +63,7 @@ nav>div>img{
 .heading-text{
     color: #3c2f60;
     font-size: 50px;
-    margin-top:50px;
+    margin-top:100px;
     flex-wrap: wrap;
 }
 .heading-text span{
