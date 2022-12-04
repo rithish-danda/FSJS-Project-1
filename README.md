@@ -4,3 +4,8 @@ This is the firstproject in the course, the output should be acheived only with 
 
 
 ![](./output.png)
+
+
+You can access the project website from the link below:
+
+%(rtsh-fsjspr1.netlify.app)
